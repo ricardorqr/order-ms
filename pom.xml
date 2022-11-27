@@ -49,6 +49,9 @@
 				</configuration>
 			</plugin>
 		</plugins>
+
+		<!-- Name of the JAR -->
+		<finalName>orderApp</finalName>
 	</build>
 
 </project>
